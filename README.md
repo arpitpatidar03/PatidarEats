@@ -1,6 +1,6 @@
 # PatidarEats 🍔
 
-PatidarEats is a modern, full-stack E-Commerce food delivery web application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). [cite: 2026-03-07]
+PatidarEats is a modern, full-stack E-Commerce food delivery web application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
 
 ## 🚀 Features
 * **Modern UI:** Clean and responsive design using React. 
